@@ -1,0 +1,267 @@
+fileFormatVersion: 2
+guid: 60f957ba3bb6543e4914f7ada7384c6b
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: dontdiebuttons_0
+    21300002: dontdiebuttons_1
+    21300004: dontdiebuttons_2
+    21300006: dontdiebuttons_3
+    21300008: dontdiebuttons_4
+    21300010: dontdiebuttons_5
+    21300012: dontdiebuttons_6
+    21300014: dontdiebuttons_7
+    21300016: dontdiebuttons_8
+    21300018: dontdiebuttons_9
+    21300020: dontdiebuttons_10
+    21300022: dontdiebuttons_11
+    21300024: dontdiebuttons_12
+    21300026: dontdiebuttons_13
+    21300028: dontdiebuttons_14
+    21300030: dontdiebuttons_15
+    21300032: dontdiebuttons_16
+    21300034: dontdiebuttons_17
+    21300036: dontdiebuttons_18
+    21300038: dontdiebuttons_19
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: dontdiebuttons_0
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 568
+        width: 169
+        height: 161
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dontdiebuttons_1
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 567
+        width: 141
+        height: 158
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dontdiebuttons_2
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 570
+        width: 151
+        height: 154
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dontdiebuttons_3
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 576
+        width: 144
+        height: 148
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dontdiebuttons_4
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 573
+        width: 142
+        height: 151
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dontdiebuttons_5
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 377
+        width: 147
+        height: 158
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dontdiebuttons_6
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 377
+        width: 152
+        height: 155
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dontdiebuttons_7
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 381
+        width: 144
+        height: 149
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dontdiebuttons_8
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 381
+        width: 151
+        height: 148
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 371
+        width: 154
+        height: 165
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dontdiebuttons_10
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 197
+        width: 169
+        height: 161
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dontdiebuttons_11
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 196
+        width: 141
+        height: 158
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dontdiebuttons_12
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 199
+        width: 151
+        height: 154
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dontdiebuttons_13
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 205
+        width: 144
+        height: 148
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dontdiebuttons_14
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 202
+        width: 142
+        height: 151
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dontdiebuttons_15
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 6
+        width: 147
+        height: 158
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dontdiebuttons_16
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 6
+        width: 152
+        height: 155
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dontdiebuttons_17
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 10
+        width: 144
+        height: 149
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dontdiebuttons_18
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 10
+        width: 151
+        height: 148
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dontdiebuttons_19
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 0
+        width: 154
+        height: 165
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
