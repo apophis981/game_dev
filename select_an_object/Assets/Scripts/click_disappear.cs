@@ -3,6 +3,10 @@ using System.Collections;
 
 public class click_disappear : MonoBehaviour {
 
+    void OnMouseUp() {
+		Debug.Log("Pushed");
+    }
+
 	// Use this for initialization
 	void Start () {
 	
@@ -10,7 +14,5 @@ public class click_disappear : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-		if (Input.GetMouseButtonDown(0))
-			Debug.Log("Position: " + Input.mousePosition);
 	}
 }
