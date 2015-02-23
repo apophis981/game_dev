@@ -10,6 +10,7 @@ public class click_disappear : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-	
+		if (Input.GetMouseButtonDown(0))
+			Debug.Log("Position: " + Input.mousePosition);
 	}
 }
